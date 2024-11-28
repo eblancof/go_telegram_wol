@@ -48,13 +48,6 @@ go build -o go_telegram_wol
 ```bash
 ./go_telegram_wol
 ```
-## Docker deployment
-
-Just run the following command:
-
-```bash
-docker-compose up -d
-```
 ## Usage
 Available commands:
 
